@@ -1,4 +1,4 @@
-# Raffle Ticket System - CISC 187 Chapter 20 Recursion
+# Raffle Ticket System - Recursion
 
 ## Author:
 Zakaria Elkhodary  
